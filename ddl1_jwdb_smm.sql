@@ -18,7 +18,8 @@
 --
 -- Table structure for table `SHKActivities`
 --
-
+create database jwdb;
+use jwdb;
 DROP TABLE IF EXISTS `SHKActivities`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
